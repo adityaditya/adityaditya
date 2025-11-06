@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    Myself <b>Aditya Raj</b>, a third year <b>Computer Science</b> undergraduate from <b>National Insitute of Technology</b>, Jamshedpur
+    Myself <b>Aditya Raj</b>, a fourth year <b>Computer Science</b> undergraduate from <b>National Insitute of Technology</b>, Jamshedpur
     An aspiring <b>Competitive Programmer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Stars can't shine without darkness---"</i></b>
